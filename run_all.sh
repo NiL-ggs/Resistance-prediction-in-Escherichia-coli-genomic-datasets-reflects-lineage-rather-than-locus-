@@ -36,8 +36,6 @@ python3 scripts/23_threshold_sensitivity.py # blocked CV at three lineage thresh
 python3 scripts/24_threshold_summary.py     # permutation null at three thresholds
 python3 scripts/25_clonality_diagnostic.py  # is the permutation scheme valid at each threshold?
 python3 scripts/26_robustness_figures.py    # spike and threshold figures
-
-# --- revision analyses -------------------------------------------------------
 python3 scripts/27_snp_vs_pc_prediction.py 20 LR   # SNPs vs PCs vs both (see README for DRUGS/MODELS/TAG)
 python3 scripts/28_known_resistance_genes.py       # 27 known resistance genes and regions
 python3 scripts/29a_gene_level_permutations.py     # 20 within-lineage permutations per drug
