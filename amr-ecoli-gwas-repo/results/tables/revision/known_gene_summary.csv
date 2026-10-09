@@ -1,0 +1,28 @@
+gene_region,mechanism,relevant_to,canonical_sites,n_positions,n_nonsyn,min_p_naive,sig_naive,min_p_10PC,sig_10PC,min_p_LMM,sig_LMM,min_p_CMH,sig_CMH
+gyrA,Quinolone target (QRDR),CIP,"codons 83, 87",8,0,4.509771541876033e-07,True,1.072518267059389e-06,True,0.0186,False,1.0,False
+gyrB,Quinolone target,CIP,"codons 426, 447",9,1,1.200766372818225e-09,True,5.462038621405764e-05,False,0.17,False,0.4532547047537405,False
+parC,Quinolone target (QRDR),CIP,"codons 80, 84",0,0,,False,,False,,False,,False
+parE,Quinolone target,CIP,"codons 416, 445, 458",18,0,2.6852043821237555e-06,True,7.214788858930964e-05,False,0.000301,False,0.0004908134612703,False
+marR,Efflux regulation (mar),CIP/CTX/CTZ,inactivating,4,2,3.787508486244943e-09,True,2.218665260211474e-08,True,0.157,False,0.4532547047537405,False
+marA,Efflux regulation (mar),CIP/CTX/CTZ,expression,0,0,,False,,False,,False,,False
+marO (marR promoter/operator),Efflux regulation (mar),CIP/CTX/CTZ,operator,1,0,4.485471211949543e-09,True,0.0877267771657795,False,0.148,False,0.4532547047537405,False
+soxR,Efflux regulation (sox),CIP/CTX/CTZ,constitutive alleles,0,0,,False,,False,,False,,False
+soxS,Efflux regulation (sox),CIP/CTX/CTZ,expression,0,0,,False,,False,,False,,False
+soxR–soxS intergenic,Efflux regulation (sox),CIP/CTX/CTZ,promoter,0,0,,False,,False,,False,,False
+rob,Efflux regulation,CIP/CTX/CTZ,expression,3,0,1.5179210279926113e-05,False,0.0001341169280803,False,0.275,False,3.0463922693345207e-10,True
+acrR,Efflux regulation (acr),CIP/CTX/CTZ,inactivating,1,0,7.477103257671314e-06,False,0.1667368292308734,False,0.535,False,1.0,False
+acrR–acrA intergenic,Efflux regulation (acr),CIP/CTX/CTZ,promoter,0,0,,False,,False,,False,,False
+acrA,AcrAB–TolC efflux,CIP/CTX/CTZ,—,1,0,7.496434070889991e-09,True,0.0910572534223727,False,0.327,False,1.0,False
+acrB,AcrAB–TolC efflux,CIP/CTX/CTZ,substrate-binding,10,0,4.485471211949543e-09,True,0.0002777142621103,False,0.189,False,0.9109792925106316,False
+tolC,AcrAB–TolC efflux,CIP/CTX/CTZ,—,2,0,1.3418307689240272e-07,True,0.0178889471030763,False,0.175,False,0.3715990457216459,False
+ompF,Porin,CIP/CTX/CTZ,loss/altered,0,0,,False,,False,,False,,False
+ompC,Porin,CIP/CTX/CTZ,loss/altered,2,0,8.67864786707247e-13,True,4.841947889010442e-05,False,0.095,False,0.3219574086040527,False
+ompR,Porin regulation,CTX/CTZ,—,1,0,0.0040900860693288,False,0.1957314336891839,False,0.739,False,1.0,False
+envZ,Porin regulation,CTX/CTZ,—,1,0,0.0005941865059259,False,0.067419286251489,False,0.352,False,1.0,False
+ampC,Chromosomal AmpC β-lactamase,CTX/CTZ,—,6,1,0.0029841325248921,False,0.0844767663142492,False,0.0734,False,0.0257673468026944,False
+ampC promoter/attenuator,AmpC hyperproduction,CTX/CTZ,"−42, −32",0,0,,False,,False,,False,,False
+ftsI,β-lactam target (PBP3),CTX/CTZ,YRIN/YRIK insertions,3,0,0.0166412034218246,False,0.0262813207540855,False,0.1,False,0.1204153454213536,False
+fusA,Aminoglycoside (EF-G),GEN,—,0,0,,False,,False,,False,,False
+cpxA,Aminoglycoside uptake (Cpx),GEN,—,0,0,,False,,False,,False,,False
+cpxR,Aminoglycoside uptake (Cpx),GEN,—,1,0,0.0218489613524058,False,0.6133610363101751,False,0.888,False,1.0,False
+trkH,Aminoglycoside uptake,GEN,—,8,0,0.0004848038712921,False,0.0008938924684578,False,0.43,False,1.0,False

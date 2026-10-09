@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+title: >-
+  Population-structure-aware GWAS of antibiotic resistance in clinical
+  Escherichia coli: analysis code and results
+message: If you use this code, please cite it and the original dataset.
+type: software
+authors:
+  - name: "[Author name to be inserted]"
+license: MIT
+repository-code: "[repository URL]"
+references:
+  - type: article
+    title: >-
+      Prediction of antimicrobial resistance based on whole-genome sequencing
+      and machine learning
+    authors:
+      - family-names: Ren
+        given-names: Y.
+      - family-names: Chakraborty
+        given-names: T.
+      - family-names: Doijad
+        given-names: S.
+    journal: Bioinformatics
+    volume: 38
+    issue: 2
+    start: 325
+    end: 334
+    year: 2022
+    doi: 10.1093/bioinformatics/btab681

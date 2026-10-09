@@ -1,0 +1,14 @@
+# Pinned to the versions used for the published analysis.
+pandas==3.0.2
+numpy==2.4.4
+scipy==1.17.1
+scikit-learn==1.8.0
+statsmodels==0.15.0
+biopython==1.88
+scikit-bio==0.7.4
+matplotlib==3.10.8
+openpyxl==3.1.5
+tqdm
+# pyseer 1.4.3 -- install separately if its optional build dependencies fail:
+#   pip install --no-deps git+https://github.com/mgalardini/pyseer.git
+pyseer==1.4.3

@@ -1,0 +1,5 @@
+drug,genes_tested,threshold,observed_sig_genes,null_median,null_min,null_max,empirical_p,sig_genes
+CIP,2931,1.70590242238144e-05,7,13.0,10,19,1.0,"tamA, mgtA, ytfB, unnamed CDS between bacA and ttdT, unnamed CDS between yjjV and yjjI, yeiE, unnamed CDS between lptF and idnT"
+CTX,2931,1.70590242238144e-05,7,17.5,10,19,1.0,"intergenic trkH–srkA, mgtA, tamA, ytfB, unnamed CDS between yjjV and yjjI, intergenic paeA–msrA, argI"
+CTZ,2931,1.70590242238144e-05,18,21.5,17,28,0.9523809523809523,"tamA, mgtA, treR, ytfB, argI, yiiX, yhgF, unnamed CDS between yjjV and yjjI, rlmC, mtr, intergenic iclR–metH, sodA, uvrA, deoB, caiC, intergenic yggM–ansB, intergenic paeA–msrA, intergenic yhfK–pabA"
+GEN,2931,1.70590242238144e-05,5,6.0,4,9,0.9523809523809523,"yejA, intergenic iclR–metH, ulaA, yiiX, mgtA"

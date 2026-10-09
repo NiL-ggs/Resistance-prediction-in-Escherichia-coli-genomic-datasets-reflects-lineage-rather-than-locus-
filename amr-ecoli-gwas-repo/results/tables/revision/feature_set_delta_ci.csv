@@ -1,0 +1,25 @@
+drug,classifier,n_pcs,cv,contrast,delta_auc,ci_low,ci_high
+CIP,LR,20,random,SNP+PC minus PC,0.039,0.019,0.057
+CIP,LR,20,random,SNP minus PC,0.039,0.02,0.058
+CIP,LR,20,random,SNP+PC minus SNP,-0.0,-0.002,0.001
+CIP,LR,20,lineage-blocked,SNP+PC minus PC,0.183,0.137,0.23
+CIP,LR,20,lineage-blocked,SNP minus PC,0.182,0.137,0.23
+CIP,LR,20,lineage-blocked,SNP+PC minus SNP,0.001,-0.002,0.005
+CTX,LR,20,random,SNP+PC minus PC,-0.03,-0.059,-0.001
+CTX,LR,20,random,SNP minus PC,-0.03,-0.059,-0.002
+CTX,LR,20,random,SNP+PC minus SNP,0.0,-0.001,0.002
+CTX,LR,20,lineage-blocked,SNP+PC minus PC,0.117,0.064,0.167
+CTX,LR,20,lineage-blocked,SNP minus PC,0.115,0.064,0.164
+CTX,LR,20,lineage-blocked,SNP+PC minus SNP,0.001,-0.003,0.006
+CTZ,LR,20,random,SNP+PC minus PC,-0.026,-0.055,0.002
+CTZ,LR,20,random,SNP minus PC,-0.025,-0.054,0.003
+CTZ,LR,20,random,SNP+PC minus SNP,-0.001,-0.002,0.0
+CTZ,LR,20,lineage-blocked,SNP+PC minus PC,0.11,0.056,0.169
+CTZ,LR,20,lineage-blocked,SNP minus PC,0.113,0.058,0.171
+CTZ,LR,20,lineage-blocked,SNP+PC minus SNP,-0.003,-0.005,-0.001
+GEN,LR,20,random,SNP+PC minus PC,-0.025,-0.071,0.016
+GEN,LR,20,random,SNP minus PC,-0.026,-0.071,0.014
+GEN,LR,20,random,SNP+PC minus SNP,0.0,-0.001,0.002
+GEN,LR,20,lineage-blocked,SNP+PC minus PC,0.125,0.051,0.195
+GEN,LR,20,lineage-blocked,SNP minus PC,0.122,0.049,0.192
+GEN,LR,20,lineage-blocked,SNP+PC minus SNP,0.003,0.0,0.005

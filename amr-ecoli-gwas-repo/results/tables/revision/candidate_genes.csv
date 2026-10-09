@@ -1,0 +1,26 @@
+gene,drugs,n_drugs,positions,any_non_syn,best_p_LMM,within_lineage_support,min_tree_changes,max_top_lineage_share,in_4_42_4_60Mb,max_perm_hit_freq
+mgtA,CIP/CTX/CTZ/GEN,4,4469454,False,5.47e-11,True,4,0.9,True,0.15
+tamA,CIP/CTX/CTZ,3,4443644,False,6.08e-11,True,16,0.87,True,0.0
+yjjW,CIP/CTX/CTZ,3,"4614839, 4614902",False,6.58e-08,True,19,0.82,False,0.05
+ytfB,CIP/CTX/CTZ,3,4428463,False,7.49e-08,True,14,0.3,True,0.0
+yiiX,CTX/CTZ/GEN,3,4127700,False,8.6e-08,False,5,0.65,False,1.0
+mtr,CTX/CTZ/GEN,3,3304819,False,1.58e-07,False,11,0.58,False,1.0
+argI,CTX/CTZ,2,4477553,True,4.13e-08,True,15,0.33,True,0.0
+between paeA(-) and msrA(-),CTX/CTZ,2,"4441487, 4441501",False,1.42e-07,False,24,0.39,True,0.0
+uvrA,CTZ/GEN,2,4271406,False,2.44e-07,False,11,0.59,False,0.8
+between iclR(-) and metH(+),CTZ/GEN,2,4223638,False,1.28e-06,False,8,0.95,False,1.0
+treR,CTZ,1,4466572,False,1.29e-09,True,31,0.62,True,0.0
+between rrfA(+) and mobB(-),CTX,1,4040608,False,3.83e-09,False,97,0.14,False,0.0
+yhgF,CTZ,1,3538947,False,5.27e-08,False,15,0.46,False,1.0
+ttdB,CIP,1,"3207679, 3207682",False,5.53e-08,False,24,0.15,False,0.0
+yejA,GEN,1,2274094,False,9.34e-08,False,18,0.5,False,1.0
+rlmC,CTZ,1,898919,False,1.03e-07,False,5,0.67,False,1.0
+ulaA,GEN,1,4421044,False,1.45e-07,False,27,0.16,True,0.15
+lptG,CIP,1,4488025,False,4.94e-07,True,46,0.36,True,0.0
+caiC,CTZ,1,36991,False,5.97e-07,False,19,0.56,False,0.15
+yeiE,CIP,1,2248899,False,1.03e-06,False,14,0.19,False,0.0
+deoB,CTZ,1,4619917,False,1.31e-06,False,17,0.85,False,0.45
+sodA,CTZ,1,4101302,True,1.54e-06,False,16,0.53,False,0.6
+relA,CTZ,1,2912911,False,1.69e-06,False,11,0.51,False,1.0
+speB,CIP,1,3083513,False,1.74e-06,False,14,0.22,False,0.0
+speC,CIP,1,3107968,False,2.07e-06,True,43,0.19,False,0.05

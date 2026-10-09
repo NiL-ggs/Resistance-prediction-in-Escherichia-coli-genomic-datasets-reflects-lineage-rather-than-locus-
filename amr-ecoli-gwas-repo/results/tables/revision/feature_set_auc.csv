@@ -1,0 +1,73 @@
+drug,classifier,n_pcs,cv,model,pca_fitted_on,auc
+CIP,LR,10,lineage-blocked,PC,training fold,0.433
+CIP,LR,10,random,PC,training fold,0.747
+CIP,LR,20,lineage-blocked,SNP,training fold,0.77
+CIP,LR,20,lineage-blocked,PC,training fold,0.587
+CIP,LR,20,lineage-blocked,SNP+PC,training fold,0.771
+CIP,LR,20,lineage-blocked,PC,all 809 isolates,0.828
+CIP,LR,20,lineage-blocked,SNP+PC,all 809 isolates,0.77
+CIP,LR,20,random,SNP,training fold,0.947
+CIP,LR,20,random,PC,training fold,0.909
+CIP,LR,20,random,SNP+PC,training fold,0.947
+CIP,LR,20,random,PC,all 809 isolates,0.912
+CIP,LR,20,random,SNP+PC,all 809 isolates,0.948
+CIP,LR,50,lineage-blocked,PC,training fold,0.742
+CIP,LR,50,random,PC,training fold,0.938
+CIP,RF,20,lineage-blocked,PC,training fold,0.732
+CIP,RF,20,lineage-blocked,SNP+PC,training fold,0.735
+CIP,RF,20,random,PC,training fold,0.957
+CIP,RF,20,random,SNP+PC,training fold,0.964
+CTX,LR,10,lineage-blocked,PC,training fold,0.463
+CTX,LR,10,random,PC,training fold,0.684
+CTX,LR,20,lineage-blocked,SNP,training fold,0.645
+CTX,LR,20,lineage-blocked,PC,training fold,0.529
+CTX,LR,20,lineage-blocked,SNP+PC,training fold,0.646
+CTX,LR,20,lineage-blocked,PC,all 809 isolates,0.698
+CTX,LR,20,lineage-blocked,SNP+PC,all 809 isolates,0.644
+CTX,LR,20,random,SNP,training fold,0.776
+CTX,LR,20,random,PC,training fold,0.806
+CTX,LR,20,random,SNP+PC,training fold,0.777
+CTX,LR,20,random,PC,all 809 isolates,0.808
+CTX,LR,20,random,SNP+PC,all 809 isolates,0.776
+CTX,LR,50,lineage-blocked,PC,training fold,0.597
+CTX,LR,50,random,PC,training fold,0.819
+CTX,RF,20,lineage-blocked,PC,training fold,0.656
+CTX,RF,20,lineage-blocked,SNP+PC,training fold,0.679
+CTX,RF,20,random,PC,training fold,0.823
+CTX,RF,20,random,SNP+PC,training fold,0.834
+CTZ,LR,10,lineage-blocked,PC,training fold,0.379
+CTZ,LR,10,random,PC,training fold,0.698
+CTZ,LR,20,lineage-blocked,SNP,training fold,0.596
+CTZ,LR,20,lineage-blocked,PC,training fold,0.482
+CTZ,LR,20,lineage-blocked,SNP+PC,training fold,0.592
+CTZ,LR,20,lineage-blocked,PC,all 809 isolates,0.726
+CTZ,LR,20,lineage-blocked,SNP+PC,all 809 isolates,0.593
+CTZ,LR,20,random,SNP,training fold,0.796
+CTZ,LR,20,random,PC,training fold,0.821
+CTZ,LR,20,random,SNP+PC,training fold,0.795
+CTZ,LR,20,random,PC,all 809 isolates,0.823
+CTZ,LR,20,random,SNP+PC,all 809 isolates,0.794
+CTZ,LR,50,lineage-blocked,PC,training fold,0.627
+CTZ,LR,50,random,PC,training fold,0.826
+CTZ,RF,20,lineage-blocked,PC,training fold,0.68
+CTZ,RF,20,lineage-blocked,SNP+PC,training fold,0.691
+CTZ,RF,20,random,PC,training fold,0.847
+CTZ,RF,20,random,SNP+PC,training fold,0.853
+GEN,LR,10,lineage-blocked,PC,training fold,0.374
+GEN,LR,10,random,PC,training fold,0.619
+GEN,LR,20,lineage-blocked,SNP,training fold,0.592
+GEN,LR,20,lineage-blocked,PC,training fold,0.47
+GEN,LR,20,lineage-blocked,SNP+PC,training fold,0.595
+GEN,LR,20,lineage-blocked,PC,all 809 isolates,0.578
+GEN,LR,20,lineage-blocked,SNP+PC,all 809 isolates,0.593
+GEN,LR,20,random,SNP,training fold,0.725
+GEN,LR,20,random,PC,training fold,0.751
+GEN,LR,20,random,SNP+PC,training fold,0.726
+GEN,LR,20,random,PC,all 809 isolates,0.743
+GEN,LR,20,random,SNP+PC,all 809 isolates,0.725
+GEN,LR,50,lineage-blocked,PC,training fold,0.523
+GEN,LR,50,random,PC,training fold,0.773
+GEN,RF,20,lineage-blocked,PC,training fold,0.506
+GEN,RF,20,lineage-blocked,SNP+PC,training fold,0.531
+GEN,RF,20,random,PC,training fold,0.784
+GEN,RF,20,random,SNP+PC,training fold,0.782

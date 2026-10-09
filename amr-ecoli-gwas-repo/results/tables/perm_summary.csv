@@ -1,0 +1,5 @@
+drug,observed,perm_n,null_median,null_mean,null_min,null_max,null_95th,empirical_p
+CIP,11,200,16,16.8,11,24,22,1.0
+CTX,11,200,21,20.4,9,32,26,0.99
+CTZ,18,200,26,25.4,13,35,31,0.975
+GEN,7,200,7,8.0,4,15,12,0.731

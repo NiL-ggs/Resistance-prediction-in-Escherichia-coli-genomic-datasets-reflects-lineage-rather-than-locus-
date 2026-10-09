@@ -1,0 +1,5 @@
+drug,drug_name,n_resistant,n_susceptible,n_unique_snps_tested,naive_bonferroni_sig,naive_fdr5pct_sig,pc_adjusted_bonferroni_sig,pc_adjusted_fdr5pct_sig,reduction_factor_fdr
+CIP,Ciprofloxacin,366,443,16435,7077,13688,1177,4624,2.96
+CTX,Cefotaxime,358,451,16435,986,11230,506,1768,6.35
+CTZ,Ceftazidime,276,533,16435,372,1788,486,2369,0.75
+GEN,Gentamicin,188,621,16435,138,9010,222,1201,7.5

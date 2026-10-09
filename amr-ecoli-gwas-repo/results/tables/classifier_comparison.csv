@@ -1,0 +1,17 @@
+drug,model,auc_random,auc_lineage_blocked,drop
+CIP,Logistic regression,0.946,0.792,0.154
+CIP,SVM (linear),0.928,0.738,0.19
+CIP,SVM (RBF),0.946,0.644,0.301
+CIP,Random forest,0.962,0.749,0.213
+CTX,Logistic regression,0.773,0.666,0.108
+CTX,SVM (linear),0.742,0.587,0.156
+CTX,SVM (RBF),0.825,0.61,0.215
+CTX,Random forest,0.834,0.693,0.141
+CTZ,Logistic regression,0.794,0.625,0.169
+CTZ,SVM (linear),0.762,0.55,0.213
+CTZ,SVM (RBF),0.822,0.613,0.209
+CTZ,Random forest,0.849,0.653,0.195
+GEN,Logistic regression,0.726,0.609,0.117
+GEN,SVM (linear),0.69,0.567,0.123
+GEN,SVM (RBF),0.694,0.452,0.242
+GEN,Random forest,0.785,0.547,0.239

@@ -1,0 +1,21 @@
+drug,model,n_features,auc_random_cv,auc_lineage_cv
+CIP,LMM loci only,11,0.891,0.803
+CIP,Lineage (10 PCs) only,10,0.745,0.378
+CIP,Lineage (20 PCs) only,20,0.912,0.833
+CIP,LMM loci + 10 PCs,21,0.905,0.724
+CIP,"All 16,435 SNPs (RF)",16435,0.962,0.749
+CTX,LMM loci only,11,0.782,0.742
+CTX,Lineage (10 PCs) only,10,0.675,0.441
+CTX,Lineage (20 PCs) only,20,0.809,0.701
+CTX,LMM loci + 10 PCs,21,0.828,0.783
+CTX,"All 16,435 SNPs (RF)",16435,0.834,0.693
+CTZ,LMM loci only,18,0.794,0.768
+CTZ,Lineage (10 PCs) only,10,0.696,0.364
+CTZ,Lineage (20 PCs) only,20,0.823,0.73
+CTZ,LMM loci + 10 PCs,28,0.814,0.767
+CTZ,"All 16,435 SNPs (RF)",16435,0.849,0.653
+GEN,LMM loci only,7,0.725,0.714
+GEN,Lineage (10 PCs) only,10,0.633,0.352
+GEN,Lineage (20 PCs) only,20,0.745,0.582
+GEN,LMM loci + 10 PCs,17,0.758,0.679
+GEN,"All 16,435 SNPs (RF)",16435,0.785,0.547

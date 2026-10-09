@@ -1,0 +1,21 @@
+drug,classifier,encoding,n_features,auc_random,auc_lineage_blocked,drop
+CIP,Logistic regression,binary,16435,0.946,0.792,0.154
+CIP,Logistic regression,one-hot,20349,0.946,0.812,0.134
+CIP,Random forest,binary,16435,0.962,0.749,0.213
+CIP,Random forest,label (0-4),16435,0.961,0.745,0.216
+CIP,Random forest,one-hot,20349,0.962,0.733,0.229
+CTX,Logistic regression,binary,16435,0.773,0.666,0.108
+CTX,Logistic regression,one-hot,20349,0.772,0.686,0.086
+CTX,Random forest,binary,16435,0.834,0.693,0.141
+CTX,Random forest,label (0-4),16435,0.837,0.695,0.142
+CTX,Random forest,one-hot,20349,0.836,0.695,0.14
+CTZ,Logistic regression,binary,16435,0.794,0.625,0.169
+CTZ,Logistic regression,one-hot,20349,0.798,0.651,0.146
+CTZ,Random forest,binary,16435,0.849,0.653,0.195
+CTZ,Random forest,label (0-4),16435,0.848,0.713,0.135
+CTZ,Random forest,one-hot,20349,0.848,0.694,0.154
+GEN,Logistic regression,binary,16435,0.726,0.609,0.117
+GEN,Logistic regression,one-hot,20349,0.741,0.616,0.125
+GEN,Random forest,binary,16435,0.785,0.547,0.239
+GEN,Random forest,label (0-4),16435,0.787,0.539,0.248
+GEN,Random forest,one-hot,20349,0.789,0.543,0.246
