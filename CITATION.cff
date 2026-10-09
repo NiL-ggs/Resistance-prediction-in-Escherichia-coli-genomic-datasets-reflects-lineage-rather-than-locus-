@@ -1,13 +1,12 @@
 cff-version: 1.2.0
 title: >-
-  Population-structure-aware GWAS of antibiotic resistance in clinical
-  Escherichia coli: analysis code and results
+  Resistance prediction in Escherichia coli genomic datasets reflects lineage rather than locus: analysis code and results
 message: If you use this code, please cite it and the original dataset.
 type: software
 authors:
-  - name: "[Author name to be inserted]"
+  - name: "Nakib Istiyak Labib"
 license: MIT
-repository-code: "[repository URL]"
+repository-code: "https://github.com/NiL-ggs/Resistance-prediction-in-Escherichia-coli-genomic-datasets-reflects-lineage-rather-than-locus-"
 references:
   - type: article
     title: >-
